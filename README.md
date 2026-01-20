@@ -5,6 +5,12 @@ This project focuses on recreating the look and feel of Netflix’s homepage whi
 
 ---
 
+## 🔗 Live Demo
+
+https://shreya-dixit210.github.io/Netflix-clone/
+
+---
+
 ## 📌 Project Overview
 
 The Netflix Clone is a front-end project that demonstrates how real-world landing pages are structured and styled.  
